@@ -4,7 +4,7 @@
 Dev FullStack - Aberta a oportunidades de estágio onde eu possa aprender, colaborar e crescer como desenvolvedora.
 
 ##  Stack Tech
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,tailwindcss&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,javascript,tailwindcss&theme=dark" />
 
 ---
 
@@ -22,9 +22,8 @@ Dev FullStack - Aberta a oportunidades de estágio onde eu possa aprender, colab
 ---
 
 ##  O que estou estudando agora
-- Aprimorando **Spring Boot** e **Java**  
-- Conceitos de **arquitetura de hardware** e boas práticas  
-- Projetos com foco em **Autenticação oAuth com Spotify** e **sistemas web interativos**
+- Aprimorando **Java Avançado**  
+- Teoria e prática de **instalação e manutenção de sistemas operacionais** e boas práticas  
 
 ---
 
