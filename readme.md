@@ -8,12 +8,6 @@ Dev FullStack - Aberta a oportunidades de estágio onde eu possa aprender, colab
 
 ---
 
-##  Formação
-- Atualmente cursando **Técnico em Informática**, com foco em montagem e manutenção de computadores.  
-- Concluí o curso **Desenvolvimento de Sistemas** no Senai CTTI, onde tive contato com Análise de requisitos, Modelagem e design de software, Programação, Testes e Gerenciamento de Sistemas.
-
----
-
 ##  Projetos em destaque
 - [**TCC Conexão Alimentar**](https://github.com/doacoes-urbanas-tcc/tcc-ConexaoAlimentar-frontend.git) – Uma plataforma open source que conecta  doadores a ONGs e pessoas em situação de vulnerabilidade, promovendo a redistribuição de alimentos e produtos com mais transparência e eficiência.  
 - **Tecnologias utilizadas:** Java, Spring Boot + JWT, MySQL, HTML, JS, TailwindCSS, Leaflet.js + OpenStreetMap, API CEP (...).  
