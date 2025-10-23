@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ADD8E6&center=false&vCenter=true&width=900&lines=System.out.println(%22Bem+vindo!%22);" />
 
 ## Yasmin Martimiano
-Dev FullStack - Aberta a oportunidades de estágio onde eu possa aprender, colaborar e crescer como desenvolvedora.
+Desenvolvedora Web
 
 ##  Stack Tech
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,javascript,tailwindcss&theme=dark" />
