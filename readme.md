@@ -8,12 +8,6 @@ Dev FullStack - Aberta a oportunidades de estágio onde eu possa aprender, colab
 
 ---
 
-##  Projetos em destaque
-- [**TCC Conexão Alimentar**](https://github.com/doacoes-urbanas-tcc/tcc-ConexaoAlimentar-frontend.git) – Uma plataforma open source que conecta  doadores a ONGs e pessoas em situação de vulnerabilidade, promovendo a redistribuição de alimentos e produtos com mais transparência e eficiência.  
-- **Tecnologias utilizadas:** Java, Spring Boot + JWT, MySQL, HTML, JS, TailwindCSS, Leaflet.js + OpenStreetMap, API CEP (...).  
-  Durante o desenvolvimento aprendi bastante sobre **arquitetura de software, validação de dados, integração frontend-backend, versionamento, APIs, testes**.
-
----
 
 ##  O que estou estudando agora
 - Aprimorando **Java Avançado**  
@@ -22,13 +16,11 @@ Dev FullStack - Aberta a oportunidades de estágio onde eu possa aprender, colab
 ---
 
 ##  GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=yasmartimiano&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ADD8E6&icon_color=ADD8E6&text_color=FFFFFF" width="40%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmartimiano&layout=compact&theme=tokyonight&bg_color=000000&title_color=ADD8E6&text_color=FFFFFF" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmartimiano&layout=compact&theme=tokyonight&bg_color=000000&title_color=ADD8E6&text_color=FFFFFF" width="40%" /> <img src="https://github-readme-stats.vercel.app/api?username=yasmartimiano&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ADD8E6&icon_color=ADD8E6&text_color=FFFFFF" width="40%" />
 
 ---
 
 ##  Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-martimiano-a82b6324b)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasminliver52@gmail.com)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portifolio-ruddy-six-88.vercel.app/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-martimiano-a82b6324b)  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasminliver52@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=footer&background=000000" />
