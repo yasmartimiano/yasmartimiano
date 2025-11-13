@@ -11,7 +11,6 @@ Desenvolvedora Web
 
 ##  O que estou estudando agora
 - Aprimorando **Java Avançado**  
-- Teoria e prática de **instalação e manutenção de sistemas operacionais** e boas práticas  
 
 ---
 
