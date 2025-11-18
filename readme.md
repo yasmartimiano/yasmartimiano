@@ -8,12 +8,6 @@ Desenvolvedora Web
 
 ---
 
-
-##  O que estou estudando agora
-- Aprimorando **Java Avançado**  
-
----
-
 ##  GitHub
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmartimiano&layout=compact&theme=tokyonight&bg_color=000000&title_color=ADD8E6&text_color=FFFFFF" width="40%" /> <img src="https://github-readme-stats.vercel.app/api?username=yasmartimiano&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ADD8E6&icon_color=ADD8E6&text_color=FFFFFF" width="40%" />
 
