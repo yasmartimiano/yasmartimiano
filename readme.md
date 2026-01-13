@@ -3,17 +3,24 @@
 ## Yasmin Martimiano
 Desenvolvedora Web
 
+---
+
 ##  Stack Tech
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,javascript,tailwindcss&theme=dark" />
 
 ---
 
-##  GitHub
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmartimiano&layout=compact&theme=tokyonight&bg_color=000000&title_color=ADD8E6&text_color=FFFFFF" width="40%" /> <img src="https://github-readme-stats.vercel.app/api?username=yasmartimiano&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ADD8E6&icon_color=ADD8E6&text_color=FFFFFF" width="40%" />
+### Estatísticas 
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasmartimiano&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasmartimiano&theme=tokyonight" />
+</div>
 
 ---
 
-##  Contato
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portifolio-ruddy-six-88.vercel.app/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-martimiano-a82b6324b)  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasminliver52@gmail.com)
+## 📬 Contato
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portifolio-ruddy-six-88.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-martimiano-a82b6324b)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasminliver52@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=footer&background=000000" />
